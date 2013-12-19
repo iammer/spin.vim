@@ -1,6 +1,6 @@
 # spin.vim
 
-This is the git repo for my (old, incomplete) Spin syntax file. The Vim scripts
+This is the git repo for Daniel Maturana's (old, incomplete) Spin syntax file. The Vim scripts
 page is [here](http://www.vim.org/scripts/script.php?script_id=3019).
 
 ## script type
